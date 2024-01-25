@@ -27,7 +27,7 @@
   "education": [
     {
       "institution": "University of California, San Diego",
-      "location": "La Jolla, California",
+      "location": "La Jolla, CA",
       "url":"https://sites.google.com/ucsd.edu/cs-ed-research-group/home?authuser=0",
       "area": "Computer Science and Engineering",
       "studyType": "PhD",
@@ -39,7 +39,7 @@
     },
     {
       "institution": "Siena College",
-      "location": "Loudonville, New York",
+      "location": "Loudonville, NY",
       "area": "Computer Science",
       "url": "https://cdm15739.contentdm.oclc.org/digital/collection/p15739coll1/id/337/rec/1",
       "studyType": "BS",
