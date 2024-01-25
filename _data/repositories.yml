@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - emmahogan
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - emmahogan/AndroidGEDPrep
+  - emmahogan/ThinkPython2_OfflineClassroom
+  - emmahogan/emmahogan.github.io
