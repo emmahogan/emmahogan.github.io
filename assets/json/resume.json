@@ -91,6 +91,60 @@
       "summary": "Graduated with highest possible distinction"
     }
   ],
+  "projects": [
+    {
+      "name": "Improving Computing Education for Incarcerated Students",
+      "summary": "University of California, San Diego, La Jolla, California",
+      "highlights": ["Received Broadening Participation in Computing (BPC) grant from NSF", 
+                    "Executing a new research initiative to improve computing education in prisons",
+                    "Teaching Introductory Programming courses in Fall quarters 2022-2024 at Richard J. Donovan prison, through the UC Irvine LIFTED program"],
+      "startDate": "2021",
+      "endDate": "present",
+      "url": "https://emmahogan.github.io/projects/1_project/"
+    }
+  ],
+  "publications": [
+    {
+      "name": "(Submitted) Uncovering Meaningful Computing Contexts for Incarcerated College Students",
+      "authors": "E. Hogan, J. Driscoll, A. Soosai Raj, L. Porter, W. Griswold",
+      "publisher": "ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE)",
+      "releaseDate": "2024"
+    },
+    {
+      "name": "(Accepted) Challenges and Approaches to Teaching CS1 in Prison",
+      "authors": "E. Hogan, R. Li, A. Soosai Raj, L. Porter, W. Griswold",
+      "publisher": "ACM Special Interest Group on Computer Science Education (SIGCSE)",
+      "releaseDate": "2024"
+    },
+    {
+      "name": "CS0 vs. CS1: Understanding Fears and Confidence amongst Non-majors in Introductory CS Courses",
+      "authors": "E. Hogan, R. Li, A. Soosai Raj",
+      "publisher": "ACM Special Interest Group on Computer Science Education (SIGCSE)",
+      "url": "",
+      "releaseDate": "2023"
+    },
+    {
+      "name": "An Empirical Evaluation of Live Coding in CS1",
+      "authors": "A. Shah, E. Hogan, V. Agarwal, J. Driscoll, L. Porter, W. Griswold, A. G. Soosai Raj",
+      "publisher": "ACM Conference on International Computing Education Research (ICER)",
+      "url": "",
+      "releaseDate": "2023"
+    },
+    {
+      "name": "Evaluating the Impact of a Remote Live Coding Pedagogy on Student Programming Processes, Lecture Questions Asked, and Outcomes",
+      "authors": "A. Shah, V. Agarwal, M. Granado, J. Driscoll, E. Hogan, L. Porter, W. Griswold and A. G. Soosai Raj",
+      "publisher": "ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE)",
+      "url": "",
+      "releaseDate": "2023"
+    },
+    {
+      "name": "Engagement and Anonymity in Online Computer Science Course Forums",
+      "authors": "M. Sharma, H. McTavish, Z. Peng, A. Shah, V. Agarwal, C. Sih, E. Hogan, I. Villegas Molina, A. G. Soosai Raj, K. Vaccaro",
+      "publisher": "ACM Conference on International Computing Education Research (ICER)",
+      "url": "",
+      "releaseDate": "2023"
+    }
+  ],
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
@@ -157,29 +211,6 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
   "skills": [
     {
       "name": "Physics",
@@ -231,16 +262,6 @@
       "name": "Professor John Doe",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
