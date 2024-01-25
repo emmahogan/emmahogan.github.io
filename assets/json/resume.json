@@ -162,10 +162,26 @@
     {
       "venue": "Computer Science and Engineering (CSE) Research Open House",
       "date": "2024-01",
-      "url": "",
+      "url": "http://cseopenhouse.ucsd.edu/",
       "presenters": "Hogan, E.",
       "title": "Uncovering Meaningful Computing Contexts for Incarcerated College Students",
       "type": "(poster)"
+    },
+    {
+      "venue": "National Conference on Higher Education in Prison (NCHEP)",
+      "date": "2023-11",
+      "url": "https://www.higheredinprison.org/info/2023-nchep-schedule",
+      "presenters": "Hogan, E.",
+      "title": "Challenges and Approaches to Teaching Computing in Prison",
+      "type": "(panel)"
+    },
+    {
+      "venue": "National Conference on Higher Education in Prison (NCHEP)",
+      "date": "2023-11",
+      "url": "https://www.higheredinprison.org/info/2023-nchep-schedule",
+      "presenters": "Hogan, E.",
+      "title": "Challenges and Approaches to Teaching Computing in Prison",
+      "type": "(panel)"
     }
   ],
   "volunteer": [
