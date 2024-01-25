@@ -147,17 +147,6 @@
       "releaseDate": "2023"
     }
   ],
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
   "presentations": [
     {
       "venue": "Computer Science and Engineering (CSE) Research Open House",
@@ -176,12 +165,52 @@
       "type": "(panel)"
     },
     {
-      "venue": "National Conference on Higher Education in Prison (NCHEP)",
-      "date": "2023-11",
-      "url": "https://www.higheredinprison.org/info/2023-nchep-schedule",
+      "venue": "Special Interest Group on Computer Science Education (SIGCSE)",
+      "date": "2023-03",
+      "url": "https://sigcse2023.sigcse.org/details/sigcse-ts-2023-papers/143/CS0-vs-CS1-Understanding-Fears-and-Confidence-amongst-Non-majors-in-Introductory-CS",
       "presenters": "Hogan, E.",
-      "title": "Challenges and Approaches to Teaching Computing in Prison",
-      "type": "(panel)"
+      "title": "CS0 vs. CS1: Understanding Fears and Confidence amongst Non-majors in Introductory CS Courses",
+      "type": "(paper presentation)"
+    },
+    {
+      "venue": "National Alliance on Mental Illness (NAMI) Washington State Conference",
+      "date": "2021-10",
+      "url": "https://kodxseattle.org/2022/03/03/post-prison-education-program-radio-show-03-03-22-2/",
+      "presenters": "Hogan, E., Allen, K., Kohn, A.",
+      "title": "Thrown Away in Our Prison System: How Poor People of Color with Mental Illness are Ostracized",
+      "type": "(workshop)"
+    },
+    {
+      "venue": "CyLab Partners Conference, Carnegie Mellon University",
+      "date": "2020-09",
+      "url": "https://www.cylab.cmu.edu/events/partners_conference/2020/index.html",
+      "presenters": "Hogan, E.",
+      "title": "Lesson Learned for Computer Security Teams from High-Performance CTF Teams",
+      "type": "(poster)"
+    }
+  ],
+  "work": [
+    {
+      "name": "University of California, Irvine",
+      "position": "Associate Lecturer",
+      "url": "https://lifted.uci.edu/",
+      "startDate": "2022",
+      "endDate": "present",
+      "summary": "San Diego, California",
+      "highlights": ["Hired as a founding faculty member of the UC Irvine LIFTED program at Richard J Donovan prison, to conduct UC Irvine courses in prison for credit towards a Bachelor's degree",
+                      "Sole instructor for Introduction to Programming for Sociology during the Fall 2022 and Fall 2023 quarters, and two introductory Statistics courses during Summer 2023",
+                    "Designed all course materials to be paper-based and offline in order to adapt to the restrictions of a prison setting"]
+    },
+    {
+      "name": "University of California, San Diego",
+      "position": "Graduate Teaching Assistant",
+      "url": "https://lifted.uci.edu/",
+      "startDate": "2022",
+      "endDate": "present",
+      "summary": "San Diego, California",
+      "highlights": ["Hired as a founding faculty member of the UC Irvine LIFTED program at Richard J Donovan prison, to conduct UC Irvine courses in prison for credit towards a Bachelor's degree",
+                      "Sole instructor for Introduction to Programming for Sociology during the Fall 2022 and Fall 2023 quarters, and two introductory Statistics courses during Summer 2023",
+                    "Designed all course materials to be paper-based and offline in order to adapt to the restrictions of a prison setting"]
     }
   ],
   "volunteer": [
