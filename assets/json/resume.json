@@ -43,7 +43,7 @@
       "url": "https://cdm15739.contentdm.oclc.org/digital/collection/p15739coll1/id/337/rec/1",
       "studyType": "BS",
       "endDate": "2021-05-01",
-      "score": "10",
+      "score": "9",
       "courses": ["Standish Honors Program Scholar", 
                   "Minor in Writing and Communication",
                   "Undergraduate Thesis: The Role of Technology in Supporting the Needs of All Levels of Incarcerated Students",
@@ -52,11 +52,43 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Ford Foundation Predoctoral Fellowship",
+      "date": "2023",
+      "awarder": "Funding Period: 3 years",
+      "url": "https://ra.nas.edu/FordFellows20/ExtRpts/PressReleaseRoster.aspx?RptMode=AW&CompYr=2023",
+      "summary": "Award provides funding for three years to support doctoral studies. Recognized for commitment to utilizing diversity as a valuable asset to enricheducational experiences for all students."
+    },
+    {
+      "title": "National Science Foundation BPC-DP Award 2315909 ($300,000 | 2 years)",
+      "date": "2023",
+      "awarder": "Project Role: Lead PhD Student",
+      "url": "https://ra.nas.edu/FordFellows20/ExtRpts/PressReleaseRoster.aspx?RptMode=AW&CompYr=2023",
+      "summary": "Aiming to enhance computer science education in prison settings, addressing academic preparation, needs of adult learners, and challenges posed by limited resources."
+    },
+    {
+      "title": "Jacobs School of Engineering Fellowship",
+      "date": "2021",
+      "awarder": "Funding Period: First year of doctoral program",
+      "summary": "Granted an elevated funding package for the initial year of the doctoral program at UCSD, with additional assurance of funding for the first summer, demonstrating academic merit and commitment to the field of engineering."
+    },
+    {
+      "title": "Computer Science Major Field Award",
+      "date": "2021",
+      "awarder": "Siena College",
+      "summary": "Awarded to one student in the department for excellence in the field upon graduation"
+    },
+    {
+      "title": "Standish Honors Program Scholar",
+      "date": "2021",
+      "awarder": "Siena College",
+      "url": "https://cdm15739.contentdm.oclc.org/digital/collection/p15739coll1/id/337/rec/1",
+      "summary": "Requirements included an independent research culminating in an honors thesis, 100 hours of community service, and 24 honors credits"
+    },
+    {
+      "title": "Summa Cum Laude",
+      "date": "2021",
+      "awarder": "Siena College",
+      "summary": "Graduated with highest possible distinction"
     }
   ],
   "work": [
