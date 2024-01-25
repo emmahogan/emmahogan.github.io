@@ -7,7 +7,7 @@ related_posts: false
 ---
 
 ---
-I am so grateful to have been awarded the 2023 Ford Foundation Predoctoral Fellowship, which seeks "to increase  the number of professors who can and will use diversity as a resource for enriching the education of all students".
+I am so grateful to have been awarded the 2023 Ford Foundation Predoctoral Fellowship, which seeks "to increase  the number of professors who can and will use diversity as a resource for enriching the education of all students" {% cite noauthor_ford_2023 %}.
 
 ---
 
