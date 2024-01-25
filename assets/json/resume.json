@@ -1,27 +1,53 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Emma Hogan",
+    "label": "Ph.D. Student in Computer Science and Engineering",
+    "affiliation": "Computing Education Lab at UC San Diego",
+    "image": "assets/img/Professional Headshot zoomed.jpeg",
+    "email": "emhogan@ucsd.edu",
+    "url": "https://emmahogan.github.io/",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "city": "La Jolla",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "emmamhogan",
+        "url": "linkedin.com/in/emmamhogan"
+      },
+      {
+        "network": "GitHub",
+        "username": "emmahogan",
+        "url": "github.com/emmahogan"
       }
     ]
   },
+  "education": [
+    {
+      "institution": "University of California, San Diego",
+      "location": "La Jolla, California",
+      "url": "https://sites.google.com/ucsd.edu/cs-ed-research-group/home?authuser=0",
+      "area": "Computer Science and Engineering",
+      "studyType": "PhD",
+      "startDate": "2021-09-01",
+      "endDate": "2025-06-01",
+      "GPA": "3.76",
+      "affiliations": ["Computing Education Research Lab"]
+    },
+    {
+      "institution": "University of California, San Diego",
+      "location": "La Jolla, California",
+      "url": "https://sites.google.com/ucsd.edu/cs-ed-research-group/home?authuser=0",
+      "area": "Computer Science and Engineering",
+      "studyType": "PhD",
+      "startDate": "2021-09-01",
+      "endDate": "2025-06-01",
+      "score": "10",
+      "courses": ["Improving Computing Education in Prisons"]
+    }
+  ],
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
@@ -42,19 +68,6 @@
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
