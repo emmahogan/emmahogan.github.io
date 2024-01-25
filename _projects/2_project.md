@@ -7,6 +7,20 @@ category: work
 giscus_comments: true
 ---
 
+This post summarizes research that I conducted alongside Ruoxuan Li and Gerald Soosai Raj. Read the full paper here
+
+In this project, we collected survey data from over 500 non-majors in two different introductory CS courses at UCSD: CS0, and CS1. This data included both self-reported confidence levels (on a Likert scale of 1-5), as well as open-ended textual responses about what their fears were going into the course. We used the following mixed-methods to answer several research questions regarding these aspects of their experience in the course:
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/cs0vscs1/RQs_Methods.png" title="RQs and corresponding research methods" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Research questions and the corresponding research methods we used to analyze them.
+</div>
+
+In our qualitative analysis, we found
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -22,14 +36,7 @@ giscus_comments: true
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+
 
 You can also put regular text between your rows of images.
 Say you wanted to write a little bit about your project before you posted the rest of the images.
