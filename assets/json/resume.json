@@ -28,24 +28,35 @@
     {
       "institution": "University of California, San Diego",
       "location": "La Jolla, California",
+      "url":"https://sites.google.com/ucsd.edu/cs-ed-research-group/home?authuser=0",
       "area": "Computer Science and Engineering",
       "studyType": "PhD",
-      "endDate": "Exp: 2025-06",
-      "courses": ["[Computing Education Research Lab](https://sites.google.com/ucsd.edu/cs-ed-research-group/home?authuser=0)",
-                  "Research Focus: [Improving CS Education in Prisons](https://emmahogan.github.io/projects/csed_prisons/)",
+      "endDate": "2025-06-01",
+      "courses": ["Computing Education Research Lab",
+                  "Research Focus: Improving CS Education in Prisons",
                   "GPA: 3.76"]
     },
     {
       "institution": "Siena College",
       "location": "Loudonville, New York",
       "area": "Computer Science",
+      "url": "https://cdm15739.contentdm.oclc.org/digital/collection/p15739coll1/id/337/rec/1",
       "studyType": "BS",
-      "endDate": "2021-05",
+      "endDate": "2021-05-01",
       "score": "10",
       "courses": ["Standish Honors Program Scholar", 
                   "Minor in Writing and Communication",
-                  "Undergraduate Thesis: [The Role of Technology in Supporting the Needs of All Levels of Incarcerated Students](https://cdm15739.contentdm.oclc.org/digital/collection/p15739coll1/id/337/rec/1)",
+                  "Undergraduate Thesis: The Role of Technology in Supporting the Needs of All Levels of Incarcerated Students",
                   "Overall GPA: 3.96"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Nobel Prize in Physics",
+      "date": "1921-11-01",
+      "awarder": "Royal Swedish Academy of Sciences",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
   "work": [
@@ -68,15 +79,6 @@
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
   "certificates": [
