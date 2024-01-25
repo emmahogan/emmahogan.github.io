@@ -204,121 +204,116 @@
     {
       "name": "University of California, San Diego",
       "position": "Graduate Teaching Assistant",
-      "url": "https://lifted.uci.edu/",
       "startDate": "2022",
-      "endDate": "present",
-      "summary": "San Diego, California",
-      "highlights": ["Hired as a founding faculty member of the UC Irvine LIFTED program at Richard J Donovan prison, to conduct UC Irvine courses in prison for credit towards a Bachelor's degree",
-                      "Sole instructor for Introduction to Programming for Sociology during the Fall 2022 and Fall 2023 quarters, and two introductory Statistics courses during Summer 2023",
-                    "Designed all course materials to be paper-based and offline in order to adapt to the restrictions of a prison setting"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "endDate": "2023",
+      "summary": "La Jolla, California",
+      "highlights": ["Hired as a teaching assistant for a large Introduction to Programming in Python course with over 500 students (Spring 2022), Software Tools and Techniques Lab (Winter 2023), Theory of Computation (Spring 2023)",
+                      "Conducted labs and discussion sections and designed course materials",
+                    "Led a group of staff in reaching out to struggling students (Spring 2022)"]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Post-Prison Education Program",
+      "position": "Applicant and Student Services Counselor, Project Coordinator",
+      "startDate": "2021-05",
+      "endDate": "2021-12",
+      "summary": "Seattle, Washington",
+      "highlights": ["Formed committee devoted to advocating for educational access, working with Washington Department of Corrections administrators and legislators to propose solutions",
+                      "Published two newspaper articles on current issues I witnessed our students facing, supported by letters from prisoners, phone interviews conducted with family members, and related research to give national and global context",
+                    "Managed a caseload of up to 10 currently incarcerated students, communicating regularly to plan their release from prison and transition into higher education"]
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Carnegie Mellon University",
+      "position": "Backend Development and Software Engineering Research Intern",
+      "startDate": "2020-05",
+      "endDate": "2020-10",
+      "summary": "Pittsburgh, Pennsylvania",
+      "highlights": ["Joined picoCTF project as part of Research Experience Undergraduate Software Engineering (REU-SE) program",
+                      "Assisted in backend development of the API using Django REST Framework, Python 3, and Docker Compose",
+                    "Supported team writing a research paper surrounding cybersecurity team dynamics in a virtual setting through completion and submission to CSCW Conference"]
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Siena College",
+      "position": "Computer Science Tutor",
+      "startDate": "2020-01",
+      "endDate": "2021-05",
+      "summary": "Loudonville, New York",
+      "highlights": ["Chosen as one of the designated tutors for the Computer Science department",
+                      "Conducted both individual and open group tutoring sessions"]
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Hudson River Community Credit Union",
+      "position": "Management Information Systems Intern",
+      "startDate": "2019-09",
+      "endDate": "2020-04",
+      "summary": "Corinth, New York",
+      "highlights": ["Certified as RPA bot developer to assist in piloting project to automate bank processes",
+                      "Analyzed and presented data by writing specialized SQL queries and manipulating it in Excel",
+                    "Identified and corrected errors in financial data reporting spreadsheets"]
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming Languages",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python 3",
+        "Java",
+        "SQL",
+        "Kotlin",
+        "C",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Assembly"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "name": "Technical Skills",
+      "keywords": [
+        "GitHub Flow",
+        "Angular",
+        "Django",
+        "Docker Compose",
+        "Google CoLab",
+        "Jupyter Notebook",
+        "Microsoft Office"
+      ]
     }
   ],
-  "interests": [
+  "volunteer": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "organization": "Trinity Alliance",
+      "startDate": "2020",
+      "endDate": "2021",
+      "summary": "Albany, NY",
+      "highlights": ["Created and facilitated an Interactive Journaling program at Albany County Jail"]
+    },
+    {
+      "organization": "ServNY",
+      "startDate": "2021",
+      "endDate": "2021",
+      "summary": "Albany, NY",
+      "highlights": ["Volunteered at pop-up Covid-19 vaccination clinics throughout spring"]
+    },
+    {
+      "organization": "San Damiano Refugee Partnership",
+      "startDate": "2020",
+      "endDate": "2021",
+      "summary": "Albany, NY",
+      "highlights": ["Refugee tutor and mentor"]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Dr. William G. Griswold",
+      "reference": "Full Professor, Computer Science and Engineering, University of California, San Diego"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Dr. Hanan Hibshi",
+      "reference": "Research and Teaching Scientist, Information Networking Institute, Carnegie Mellon University"
+    },
+    {
+      "name": "Dr. Anne L. Rody-Wright",
+      "reference": "Senior Teaching Assistant Professor, Sociology and Criminal Justice, Siena College"
     }
   ]
 }
