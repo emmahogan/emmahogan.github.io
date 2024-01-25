@@ -28,14 +28,16 @@
     {
       "institution": "University of California, San Diego",
       "location": "La Jolla, CA",
-      "url":"https://sites.google.com/ucsd.edu/cs-ed-research-group/home?authuser=0",
+      "url": "https://sites.google.com/ucsd.edu/cs-ed-research-group/home?authuser=0",
       "area": "Computer Science and Engineering",
       "studyType": "PhD",
       "startDate": "2021",
       "endDate": "Exp: 2025",
-      "courses": ["Computing Education Research Lab",
-                  "Research Focus: Improving CS Education in Prisons",
-                  "GPA: 3.76"]
+      "courses": [
+        "Computing Education Research Lab",
+        "Research Focus: Improving CS Education in Prisons",
+        "GPA: 3.76"
+      ]
     },
     {
       "institution": "Siena College",
@@ -46,10 +48,12 @@
       "startDate": "2018",
       "endDate": "2021",
       "score": "9",
-      "courses": ["Standish Honors Program Scholar", 
-                  "Minor in Writing and Communication",
-                  "Undergraduate Thesis: The Role of Technology in Supporting the Needs of All Levels of Incarcerated Students",
-                  "Overall GPA: 3.96"]
+      "courses": [
+        "Standish Honors Program Scholar",
+        "Minor in Writing and Communication",
+        "Undergraduate Thesis: The Role of Technology in Supporting the Needs of All Levels of Incarcerated Students",
+        "Overall GPA: 3.96"
+      ]
     }
   ],
   "awards": [
@@ -97,9 +101,11 @@
     {
       "name": "Improving Computing Education for Incarcerated Students",
       "summary": "University of California, San Diego, La Jolla, California",
-      "highlights": ["Received Broadening Participation in Computing (BPC) grant from NSF", 
-                    "Executing a new research initiative to improve computing education in prisons",
-                    "Teaching Introductory Programming courses in Fall quarters 2022-2024 at Richard J. Donovan prison, through the UC Irvine LIFTED program"],
+      "highlights": [
+        "Received Broadening Participation in Computing (BPC) grant from NSF",
+        "Executing a new research initiative to improve computing education in prisons",
+        "Teaching Introductory Programming courses in Fall quarters 2022-2024 at Richard J. Donovan prison, through the UC Irvine LIFTED program"
+      ],
       "startDate": "2021",
       "endDate": "present",
       "url": "https://emmahogan.github.io/projects/1_project/"
@@ -197,9 +203,11 @@
       "startDate": "2022",
       "endDate": "present",
       "summary": "San Diego, California",
-      "highlights": ["Hired as a founding faculty member of the UC Irvine LIFTED program at Richard J Donovan prison, to conduct UC Irvine courses in prison for credit towards a Bachelor's degree",
-                      "Sole instructor for Introduction to Programming for Sociology during the Fall 2022 and Fall 2023 quarters, and two introductory Statistics courses during Summer 2023",
-                    "Designed all course materials to be paper-based and offline in order to adapt to the restrictions of a prison setting"]
+      "highlights": [
+        "Hired as a founding faculty member of the UC Irvine LIFTED program at Richard J Donovan prison, to conduct UC Irvine courses in prison for credit towards a Bachelor's degree",
+        "Sole instructor for Introduction to Programming for Sociology during the Fall 2022 and Fall 2023 quarters, and two introductory Statistics courses during Summer 2023",
+        "Designed all course materials to be paper-based and offline in order to adapt to the restrictions of a prison setting"
+      ]
     },
     {
       "name": "University of California, San Diego",
@@ -207,9 +215,11 @@
       "startDate": "2022",
       "endDate": "2023",
       "summary": "La Jolla, California",
-      "highlights": ["Hired as a teaching assistant for a large Introduction to Programming in Python course with over 500 students (Spring 2022), Software Tools and Techniques Lab (Winter 2023), Theory of Computation (Spring 2023)",
-                      "Conducted labs and discussion sections and designed course materials",
-                    "Led a group of staff in reaching out to struggling students (Spring 2022)"]
+      "highlights": [
+        "Hired as a teaching assistant for a large Introduction to Programming in Python course with over 500 students (Spring 2022), Software Tools and Techniques Lab (Winter 2023), Theory of Computation (Spring 2023)",
+        "Conducted labs and discussion sections and designed course materials",
+        "Led a group of staff in reaching out to struggling students (Spring 2022)"
+      ]
     },
     {
       "name": "Post-Prison Education Program",
@@ -217,9 +227,11 @@
       "startDate": "2021-05",
       "endDate": "2021-12",
       "summary": "Seattle, Washington",
-      "highlights": ["Formed committee devoted to advocating for educational access, working with Washington Department of Corrections administrators and legislators to propose solutions",
-                      "Published two newspaper articles on current issues I witnessed our students facing, supported by letters from prisoners, phone interviews conducted with family members, and related research to give national and global context",
-                    "Managed a caseload of up to 10 currently incarcerated students, communicating regularly to plan their release from prison and transition into higher education"]
+      "highlights": [
+        "Formed committee devoted to advocating for educational access, working with Washington Department of Corrections administrators and legislators to propose solutions",
+        "Published two newspaper articles on current issues I witnessed our students facing, supported by letters from prisoners, phone interviews conducted with family members, and related research to give national and global context",
+        "Managed a caseload of up to 10 currently incarcerated students, communicating regularly to plan their release from prison and transition into higher education"
+      ]
     },
     {
       "name": "Carnegie Mellon University",
@@ -227,9 +239,11 @@
       "startDate": "2020-05",
       "endDate": "2020-10",
       "summary": "Pittsburgh, Pennsylvania",
-      "highlights": ["Joined picoCTF project as part of Research Experience Undergraduate Software Engineering (REU-SE) program",
-                      "Assisted in backend development of the API using Django REST Framework, Python 3, and Docker Compose",
-                    "Supported team writing a research paper surrounding cybersecurity team dynamics in a virtual setting through completion and submission to CSCW Conference"]
+      "highlights": [
+        "Joined picoCTF project as part of Research Experience Undergraduate Software Engineering (REU-SE) program",
+        "Assisted in backend development of the API using Django REST Framework, Python 3, and Docker Compose",
+        "Supported team writing a research paper surrounding cybersecurity team dynamics in a virtual setting through completion and submission to CSCW Conference"
+      ]
     },
     {
       "name": "Siena College",
@@ -237,8 +251,10 @@
       "startDate": "2020-01",
       "endDate": "2021-05",
       "summary": "Loudonville, New York",
-      "highlights": ["Chosen as one of the designated tutors for the Computer Science department",
-                      "Conducted both individual and open group tutoring sessions"]
+      "highlights": [
+        "Chosen as one of the designated tutors for the Computer Science department",
+        "Conducted both individual and open group tutoring sessions"
+      ]
     },
     {
       "name": "Hudson River Community Credit Union",
@@ -246,9 +262,11 @@
       "startDate": "2019-09",
       "endDate": "2020-04",
       "summary": "Corinth, New York",
-      "highlights": ["Certified as RPA bot developer to assist in piloting project to automate bank processes",
-                      "Analyzed and presented data by writing specialized SQL queries and manipulating it in Excel",
-                    "Identified and corrected errors in financial data reporting spreadsheets"]
+      "highlights": [
+        "Certified as RPA bot developer to assist in piloting project to automate bank processes",
+        "Analyzed and presented data by writing specialized SQL queries and manipulating it in Excel",
+        "Identified and corrected errors in financial data reporting spreadsheets"
+      ]
     }
   ],
   "skills": [
@@ -285,14 +303,18 @@
       "startDate": "2020",
       "endDate": "2021",
       "summary": "Albany, NY",
-      "highlights": ["Created and facilitated an Interactive Journaling program at Albany County Jail"]
+      "highlights": [
+        "Created and facilitated an Interactive Journaling program at Albany County Jail"
+      ]
     },
     {
       "organization": "ServNY",
       "startDate": "2021",
       "endDate": "2021",
       "summary": "Albany, NY",
-      "highlights": ["Volunteered at pop-up Covid-19 vaccination clinics throughout spring"]
+      "highlights": [
+        "Volunteered at pop-up Covid-19 vaccination clinics throughout spring"
+      ]
     },
     {
       "organization": "San Damiano Refugee Partnership",

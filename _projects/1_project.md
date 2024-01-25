@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-The main focus of my Ph.D. research has been improving computing education in prisons. As part of this research, I've had the opportunity to teach several courses for [UC Irvine's LIFTED](https://lifted.uci.edu/) college-in-prison program: I have taught Introduction to Programming in Python for each of the cohorts (Fall 2022 and 2023), as well as Statistics I and II during Summer 2023. Below is a photo of me with students from the first cohort, as well as the other LIFTED staff, at a first quarter wrap-up celebration in the prison. 
+The main focus of my Ph.D. research has been improving computing education in prisons. As part of this research, I've had the opportunity to teach several courses for [UC Irvine's LIFTED](https://lifted.uci.edu/) college-in-prison program: I have taught Introduction to Programming in Python for each of the cohorts (Fall 2022 and 2023), as well as Statistics I and II during Summer 2023. Below is a photo of me with students from the first cohort, as well as the other LIFTED staff, at a first quarter wrap-up celebration in the prison.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
