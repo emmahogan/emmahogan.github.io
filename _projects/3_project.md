@@ -3,7 +3,6 @@ layout: page
 title: The Role of Technology in Inclusive Correctional Education
 description: My undergraduate honors thesis work at Siena College
 img: assets/img/undergrad_thesis/cover.png
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---
