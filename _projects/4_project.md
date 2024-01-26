@@ -2,7 +2,7 @@
 layout: page
 title: Gardening
 description: One of my favorite hobbies!
-img:
+img: assets/img/garden/august.jpg
 importance: 3
 category: fun
 ---
