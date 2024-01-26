@@ -16,7 +16,7 @@ category: work
     The cover page of my undergraduate thesis
 </div>
 
-At Siena College, I had the opportunity to complete an undergraduate thesis as part of the Standish Honors program. I gained valuable practical experience as part of this work: performing a literature review, working through an IRB approval (which poses particular challenges when working with incarcerated individuals!), and building an Android app from scratch. 
+At Siena College, I had the opportunity to complete an undergraduate thesis as part of the Standish Honors program. I gained valuable practical experience as part of this work: performing a literature review, working through an IRB approval (which poses particular challenges when working with incarcerated individuals!), and building an Android app from scratch.
 
 One of the things I was most proud of about this work was that I feel I was able to lift up the voices of incarcerated people speaking to their own experiences. At the beginning of every chapter, I incorporated personal accounts (like those pictured below), which were compiled from the anonymous survey responses I collected from men at Albany County Jail. It remains important to me in my work to think about how I can center the experiences of justice impacted people as opposed to relying on my own assumptions or interpretations.
 

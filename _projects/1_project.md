@@ -16,5 +16,5 @@ The main focus of my Ph.D. research has been improving computing education in pr
     </div>
 </div>
 <div class="caption">
-    First cohort of LIFTED students with Fall 2023 LIFTED staff at first quarter wrap-up celebration
+    Me with the first cohort of LIFTED students and other Fall 2023 LIFTED staff at first quarter wrap-up celebration
 </div>
