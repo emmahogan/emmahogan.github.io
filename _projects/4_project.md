@@ -1,82 +1,79 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Gardening
+description: One of my favorite hobbies!
 img:
 importance: 3
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+My grandparents on my mom's side were amazing gardeners, and starting my own is one of the many things I do that I learned from them.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+It started with this diagram below, which I sketched based on the lists of which plants like or don't like each other in a book called "The Vegetable Gardener's Bible" (gifted to me from my mom!)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/garden/diagram.jpg" title="Garden diagram sketch" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+
+My now fiance, Andrew, and I broke ground on the first garden bed in September 2022. The previous owners of this house had also had a garden bed here at some point, but hadn't kept up with it. However, before they left they passed on the wisdom to lay down chicken wire below any beds we built to keep out the groundhogs!
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/garden/bed1.jpg" title="Bed 1" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Andrew with our start to the left garden bed, September 2022
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Then, we built the second garden bed next to it in October.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/garden/bed2_start.jpg" title="Starting bed 2" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/garden/bed2_complete.jpg" title="Completed bed 2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Building the second garden bed, October 2022
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+The two beds stayed this way for a while, and I slowly filled in the plants in their spots amongst friends (plant friends, of course...)
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image"
-    class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image"
-    class="img-fluid rounded z-depth-1" %}
-  </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/garden/april.jpg" title="Garden in April" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-```
+<div class="caption">
+    The garden in April 2023
+</div>
 
-{% endraw %}
+In late June, we successfully made the original dream from the sketch come to life by building an arched trellis between the two garden beds, tall enough for us to walk under.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/garden/june.jpg" title="Garden in April" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The garden in June 2023 with the new trellis
+</div>
+
+The tallest climber of the trellis ended up being cocktail tomatoes, seen here fully reaching the top of the arch in late August. I didn't have as much luck as I'd hoped with other climbing plants, but after working on building up my soil during the winter I have high hopes for next summer!
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/garden/august.jpg" title="Starting bed 2" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/garden/august2.jpg" title="Completed bed 2" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The garden in late August 2023
+</div>
