@@ -14,4 +14,3 @@ During my last semester of undergrad at Siena College, I took a memorable course
         {% include figure.liquid path="assets/img/hiphop/blueprint.png" title="My essay on Jay Z's 'The Blueprint'" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
