@@ -3,8 +3,8 @@ layout: page
 title: Experiences of Non-CS majors in Introductory CS Courses
 description: A project I led investigating the experiences of non-CS majors in two different large introductory CS courses at UCSD
 importance: 2
+img: assets/img/cs0vscs1/fear_and_confidence.png
 category: work
-giscus_comments: true
 ---
 
 This post summarizes research that I conducted alongside Ruoxuan Li and Gerald Soosai Raj. Read the full paper <a href="https://dl.acm.org/doi/10.1145/3545945.3569865">here</a>
