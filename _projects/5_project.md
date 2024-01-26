@@ -2,7 +2,7 @@
 layout: page
 title: Springsteen!!!
 description: Did I mention I love Bruce Springsteen?
-img: assets/img/1.jpg
+img: assets/img/paintings/springsteen.jpg
 importance: 3
 category: fun
 ---
