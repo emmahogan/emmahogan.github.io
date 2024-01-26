@@ -49,5 +49,3 @@ Throughout the process, I was supported by many amazing mentors, including nearl
 <div class="caption">
     Annie and I after my undergraduate thesis defense
 </div>
-
-
