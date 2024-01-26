@@ -2,7 +2,7 @@
 layout: page
 title: Technology in Correctional Education
 description: My undergraduate honors thesis work at Siena College
-img: assets/img/undergrad_thesis/cover.png
+img: assets/img/undergrad_thesis/short_cover.png
 importance: 3
 category: work
 ---
