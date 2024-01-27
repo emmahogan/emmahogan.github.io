@@ -6,7 +6,7 @@ description: Presenting at and attending the CSE Research Open House at UCSD
 categories: work
 ---
 
-I had a fantastic time at the CSE Research Open House today, where I presented a poster on some of my recent work.
+I had a fantastic time at the CSE Research Open House today! This was my first time formally presenting research related to my main thesis topic, improving computing education in prisons. It was great preparation for my upcoming presentation at SIGCSE in March on our experience report on teaching CS1 in prison, even though this poster was not on the same paper. I got meet and talk to a lot of undergraduate students, some fellow CSE Ph.D. students in other research areas, along with some of the UCSD CSE professors I've had for my graduate coursework here.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -16,8 +16,6 @@ I had a fantastic time at the CSE Research Open House today, where I presented a
 <div class="caption">
     In front of my poster at the CSE Research Open House
 </div>
-
-This was my first time formally presenting research related to my main thesis topic, improving computing education in prisons. It was great preparation for my upcoming presentation at SIGCSE in March on our experience report on teaching CS1 in prison, even though this poster was not on the same paper. I got meet and talk to a lot of undergraduate students, some fellow CSE Ph.D. students in other research areas, along with some of the UCSD CSE professors I've had for my graduate coursework here.
 
 The poster I presented today was on identifying meaningful computing contexts for incarcerated students, which was a project I led as part of my main research focus. I worked on this with an amazing undergraduate student in the Computing Education lab here, John Driscoll, along with my advisors, Bill Griswold, Leo Porter, and Gerald Soosai Raj.
 
