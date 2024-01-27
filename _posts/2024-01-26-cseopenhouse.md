@@ -27,7 +27,7 @@ The elevator pitch I gave went something like this: There are some significant b
     </div>
 </div>
 <div class="caption">
-    Talking about my poster with Dr. Mohan Paturi, a UCSD CSE professor
+    Talking about my poster with Dr. Paturi, a UCSD CSE professor
 </div>
 
 One of the more difficult questions I received was what makes this specific to Computer Science -- isn't this applicable to other disciplines as well? This is something I had discussed with my advisors in research meetings, so it wasn't the first time I had thought about it. I do believe that certain topics may be particularly suitable to topics we teach in CS1 and the computational nature of the material, but I also think it will be interesting to explore in the future how this may be true of other disciplines outside of CS.
