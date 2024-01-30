@@ -36,7 +36,7 @@ One of the things I was most proud of about this work was that I feel I was able
 <ul>
     <li>Designed and conducted independent multidisciplinary research project on the role of technology in supporting the unique needs of incarcerated students with literacy issues, learning disabilities, and other barriers to traditional classroom settingsh</li>
     <li>Created a working digitalized version of the standard GED preparation classes, to be used on the tablets at Albany County Jail</li>
-    <li>Conducted an anonymous survey of inmates at Albany County Jail comparing their educational experience in person and on the tablets, analyzed and disseminated findings as part of my culminating thesis paper</li>
+    <li>Conducted an anonymous survey of people incarcerated at Albany County Jail comparing their educational experience in person and on the tablets, analyzed and disseminated findings as part of my culminating thesis paper</li>
 </ul>
 
 Throughout the process, I was supported by many amazing mentors, including nearly the entire computer science department. In particular, Annie Rody-Wright, my undergraduate thesis advisor, was and continues to be one of my biggest role models.
