@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Emma Hogan # the website title (if blank, full name will be used instead)
+title: Emma Hogan Benser # the website title (if blank, full name will be used instead)
 first_name: Emma
-middle_name: M.
-last_name: Hogan
-email: emhogan@ucsd.edu
+middle_name: Hogan
+last_name: Benser
+email: ehogan@bard.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Emma M. Hogan's personal website
+  Emma Hogan Benser's personal website
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Science Ph.D. Student at University of California, San Diego
+subtitle: Assistant Professor of Computer Science at Bard College
 
 profile:
   align: right
@@ -19,6 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Computer Science doctoral student at University of California, San Diego, working on [improving computer science education in prisons](https://emmahogan.github.io/projects/1_project/), and an incoming Assistant Professor of Computer Science at Bard College (starting Fall 2025). My advisors are Leo Porter, Bill Griswold, and Gerald Soosai Raj, all in the [Computing Education lab](https://sites.google.com/ucsd.edu/cs-ed-research-group/home?authuser=0). My research has involved teaching computer science courses in a college-in-prison program, and conducting research on the effectiveness of strategies used to adapt to the limitations and affordances of the prison environment. A large part of my research is understanding incarcerated students' experiences in CS courses, and learning from them about how to help them succeed. Therefore, I specialize in qualitative research methods and ground my work in asset-based frameworks of education for diverse learners (i.e., Culturally Relevant Education, computing in context, andragogy).
+I am an Assistant Professor of Computer Science at Bard College. My research focuses on [improving computer science education in prisons](https://emmahogan.github.io/projects/1_project/). I started this work as a Ph.D. student at University of California, San Diego, where I was advised by Leo Porter, Bill Griswold, and Gerald Soosai Raj, all in the [Computing Education lab](https://sites.google.com/ucsd.edu/cs-ed-research-group/home?authuser=0). I finished my Ph.D. in June 2025 (dissertation [here](https://escholarship.org/uc/item/2np0z5mh). 
 
-As a member of the [Computing Education lab](https://sites.google.com/ucsd.edu/cs-ed-research-group/home?authuser=0), I have worked on other innovations in computing education such as Live Coding, understanding the experiences of non-majors, and incorporating culturally relevant techniques in CS. In the future, I plan to continue teaching and researching computer science education in prisons at the college-level.
+My research has involved teaching computer science courses in college-in-prison programs, and conducting research on the effectiveness of strategies used to adapt to the limitations and affordances of the prison environment. A large part of my research is understanding incarcerated students' experiences in CS courses, and learning from them about how to help them succeed. Therefore, I specialize in qualitative research methods and ground my work in asset-based frameworks of education for diverse learners (i.e., Culturally Relevant Education, computing in context, andragogy).
+
+As a member of the [Computing Education lab](https://sites.google.com/ucsd.edu/cs-ed-research-group/home?authuser=0) at UC San Diego, I worked on other innovations in computing education such as Live Coding, understanding the experiences of non-majors, and incorporating culturally relevant techniques in CS. In the future, I plan to continue teaching and researching computer science education in prisons at the college-level.
