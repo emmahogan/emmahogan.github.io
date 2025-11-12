@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room #3150</p>
-    <p>3235 Voigt Dr</p>
-    <p>La Jolla, CA 92093</p>
+    <p>Office #202</p>
+    <p>Reem-Kayden Center for Science and Computation</p>
+    <p>Bard College</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
